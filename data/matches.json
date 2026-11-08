@@ -1,0 +1,44 @@
+{
+  "matches": [
+    {
+      "id": "demo-1",
+      "sport": "football",
+      "home": "Manchester City",
+      "away": "Arsenal",
+      "date": "2026-11-12T19:00:00Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "demo-2",
+      "sport": "nfl",
+      "home": "Kansas City Chiefs",
+      "away": "Buffalo Bills",
+      "date": "2026-11-15T21:25:00Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "demo-3",
+      "sport": "basketball",
+      "home": "Boston Celtics",
+      "away": "New York Knicks",
+      "date": "2026-11-16T00:30:00Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "demo-4",
+      "sport": "cricket",
+      "home": "India",
+      "away": "Australia",
+      "date": "2026-11-18T08:00:00Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "demo-5",
+      "sport": "tennis",
+      "home": "Player A",
+      "away": "Player B",
+      "date": "2026-11-19T13:00:00Z",
+      "status": "SCHEDULED"
+    }
+  ]
+}

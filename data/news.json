@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": "sample-football",
+      "sport": "football",
+      "category": "Football News",
+      "title": "The week ahead: fixtures and storylines to watch",
+      "excerpt": "A sample editorial card showing how your sports news articles will appear on the site.",
+      "body": "Use this sample article as a template for your own sports coverage. Replace the headline, summary, category and article text in data/news.json.\n\nYou can add more paragraphs by separating them with a blank line. Each article opens on its own detail page.",
+      "date": "2026-11-08",
+      "art": "FOOTBALL"
+    },
+    {
+      "id": "sample-nfl",
+      "sport": "nfl",
+      "category": "NFL News",
+      "title": "What to follow as the next NFL matchweek approaches",
+      "excerpt": "Add your own league updates, previews, analysis and breaking news in the manual news file.",
+      "body": "This is placeholder content. Replace it with your own original report and update the publication date.\n\nThe category and sport fields power the news filters.",
+      "date": "2026-11-08",
+      "art": "GRIDIRON"
+    },
+    {
+      "id": "sample-basketball",
+      "sport": "basketball",
+      "category": "Basketball News",
+      "title": "Basketball notebook: teams, players and the season ahead",
+      "excerpt": "A second sample story to demonstrate the responsive news grid and category filter.",
+      "body": "Write your full story here. Keep paragraphs separated by two newline characters.\n\nYou can add as many article objects as you need to data/news.json.",
+      "date": "2026-11-07",
+      "art": "BASKETBALL"
+    }
+  ]
+}
