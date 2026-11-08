@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{$("#sports-list").innerHTML=RZ.SPORTS.map(s=>`<a class="sport-card" href="schedule.html?sport=${s.id}"><span class="sport-icon">${s.icon}</span><strong>${RZ.esc(s.name)}</strong><small>${RZ.esc(s.desc)} · View fixtures ↗</small></a>`).join("")});
